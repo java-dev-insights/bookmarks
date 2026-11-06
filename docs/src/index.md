@@ -13,13 +13,13 @@ hero:
   actions:
     - theme: brand
       text: Quotes
-      link: /quotes
+      link: /daily/quotes
     # - theme: alt
     #   text: Utils
     #   link: /utils/images
     - theme: alt
-      text: Quotes
-      link: /daily/quotes
+      text: Deleted
+      link: ../bookmarks-delete
 
 # features:
 #   - title: Feature A
