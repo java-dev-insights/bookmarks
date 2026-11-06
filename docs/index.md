@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "template-vitepress"
-  text: "template-vitepress"
-  tagline: My great project tagline
+  name: "bookmarks"
+  text: "bookmarks"
+  tagline: My bookmarks
   image:
     alt: Hero Image
     # src: /images/background.png

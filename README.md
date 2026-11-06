@@ -1,4 +1,4 @@
-# template-vitepress
+# bookmarks
 
 private template for vitepress repo
 
